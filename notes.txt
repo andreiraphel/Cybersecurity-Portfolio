@@ -1,0 +1,13 @@
+National Institute of Standards and Technology Cybersecurity Framework is a voluntary framework consist of standards, guidelines, and best practices to manage cybersecurity risks.
+
+HIPPA - Health Insurance Portability and Accountability Act)
+PII - Personally Identifiable Information
+SPII - Sensitive personally identifiable information
+PHI - Protected Health Information
+GDPR - General Data Protection Regulation
+PCI DSS - Payment Card Industry Data Security Standard
+FIPS - Federal Information Processing Standardd
+
+sha256 - hashing
+LDAP - Lightweight Directory Access Protocol
+SAML - Security Assertion Markup Language
