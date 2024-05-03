@@ -11,3 +11,21 @@ FIPS - Federal Information Processing Standardd
 sha256 - hashing
 LDAP - Lightweight Directory Access Protocol
 SAML - Security Assertion Markup Language
+IAM - Identity and Access Manaagement
+MAC - Mandatory Access Control
+DAC - Discretionary Access Control
+RBAC - Role-based Access Control
+
+Vulnerability - is a weakness that can be exploited by a threat
+Exposure - is a mistake that can be exploited by a threat
+CVE list (Common Vulnerabilities and Exposures list) - an openly accessible dictionary of known vulnerabilities and exposures
+
+CNA (CVE Numbering Authority) - an organization that volunteers to analyze and distribute information on eligible CVEs
+
+OWASP - Open WorldWide Application Security Project
+
+OSINT - Open-source intelligence 
+
+CISA - Cybersecurity and Infrastruture Security Agency
+
+Penetration test - is a simulated attack that helps identify vulnerabilities in systems, networks, websites, application, and processes.
