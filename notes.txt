@@ -29,3 +29,9 @@ OSINT - Open-source intelligence
 CISA - Cybersecurity and Infrastruture Security Agency
 
 Penetration test - is a simulated attack that helps identify vulnerabilities in systems, networks, websites, application, and processes.
+
+Threat actor - is any person or group who presents a security risk.
+
+hacker - is any person who uses computers to gain unauthorized access to computer systems, networks, or data.
+
+brute force attacks - are trial-and-error process of discovering private information.
