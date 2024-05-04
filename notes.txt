@@ -43,3 +43,5 @@ Phishing - the use of digital communications to trick people into revealing sens
 Malware - are software that are designed to harm devices or networks
 
 PUA - potentially unwanted application
+
+XSS - Cross-site scripting
