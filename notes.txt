@@ -53,3 +53,5 @@ SSl/TLS (Secure Sockets Layer/Transport Layer Security - are cryptographic proto
 SIEM - Security Information and Event Management
 
 Documentation - is any form of recorded content that is used for a specific purpose
+
+Playbook - a manual that provides details about any operational action
