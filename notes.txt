@@ -49,3 +49,7 @@ XSS - Cross-site scripting
 PASTA - Process for Attack Simulation and Threat Analysis
 
 SSl/TLS (Secure Sockets Layer/Transport Layer Security - are cryptographic protocols designed to provide secure communication over a network.
+
+SIEM - Security Information and Event Management
+
+Documentation - is any form of recorded content that is used for a specific purpose
