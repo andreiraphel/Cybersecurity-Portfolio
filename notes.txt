@@ -47,3 +47,5 @@ PUA - potentially unwanted application
 XSS - Cross-site scripting
 
 PASTA - Process for Attack Simulation and Threat Analysis
+
+SSl/TLS (Secure Sockets Layer/Transport Layer Security - are cryptographic protocols designed to provide secure communication over a network.
