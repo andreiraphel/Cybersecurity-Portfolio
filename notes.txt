@@ -41,3 +41,5 @@ Social engineering - a manipulation technique that exploits human error to gain 
 Phishing - the use of digital communications to trick people into revealing sensitive data or deploying malicious software
 
 Malware - are software that are designed to harm devices or networks
+
+PUA - potentially unwanted application
