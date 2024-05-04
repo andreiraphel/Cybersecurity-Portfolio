@@ -45,3 +45,5 @@ Malware - are software that are designed to harm devices or networks
 PUA - potentially unwanted application
 
 XSS - Cross-site scripting
+
+PASTA - Process for Attack Simulation and Threat Analysis
