@@ -1,4 +1,4 @@
-National Institute of Standards and Technology Cybersecurity Framework is a voluntary framework consist of standards, guidelines, and best practices to manage cybersecurity risks.
+dNational Institute of Standards and Technology Cybersecurity Framework is a voluntary framework consist of standards, guidelines, and best practices to manage cybersecurity risks.
 
 HIPPA - Health Insurance Portability and Accountability Act)
 PII - Personally Identifiable Information
@@ -57,3 +57,6 @@ Documentation - is any form of recorded content that is used for a specific purp
 Playbook - a manual that provides details about any operational action
 
 SOAR - Security orchestration, automation, and response
+
+Cyber deception
+Cyber deception involves techniques that deliberately deceive malicious actors with the goal of increasing detection and improving defensive strategies.
