@@ -62,3 +62,5 @@ Cyber deception
 Cyber deception involves techniques that deliberately deceive malicious actors with the goal of increasing detection and improving defensive strategies.
 
 Chain of custody - the process of documenting evidence possession and control during an incident lifecycle.
+
+log - a record of events that occur within the organization's systems
