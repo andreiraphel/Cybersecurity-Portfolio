@@ -68,3 +68,5 @@ log - a record of events that occur within the organization's systems
 FISMA - Federal Information Modernization Act
 GLBA - Gramm-Leach-Bliley Act
 SOX - Sarbanes-Oxley Act of 2002
+
+Telemetry - the collection and transmission of data for analysis
