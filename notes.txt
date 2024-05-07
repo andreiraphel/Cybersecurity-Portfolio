@@ -66,3 +66,5 @@ Chain of custody - the process of documenting evidence possession and control du
 log - a record of events that occur within the organization's systems
 
 FISMA - Federal Information Modernization Act
+GLBA - Gramm-Leach-Bliley Act
+SOX - Sarbanes-Oxley Act of 2002
