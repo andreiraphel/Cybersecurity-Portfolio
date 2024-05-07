@@ -64,3 +64,5 @@ Cyber deception involves techniques that deliberately deceive malicious actors w
 Chain of custody - the process of documenting evidence possession and control during an incident lifecycle.
 
 log - a record of events that occur within the organization's systems
+
+FISMA - Federal Information Modernization Act
