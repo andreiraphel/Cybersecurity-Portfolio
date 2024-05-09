@@ -70,3 +70,5 @@ GLBA - Gramm-Leach-Bliley Act
 SOX - Sarbanes-Oxley Act of 2002
 
 Telemetry - the collection and transmission of data for analysis
+
+SIEM - Security Information and Event Management
