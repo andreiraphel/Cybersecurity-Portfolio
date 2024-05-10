@@ -72,3 +72,5 @@ SOX - Sarbanes-Oxley Act of 2002
 Telemetry - the collection and transmission of data for analysis
 
 SIEM - Security Information and Event Management) - an application that collects and analyzes log data to monitor critical activities in an organization
+
+Search Processing Language (SPL) - Splunk's query language
