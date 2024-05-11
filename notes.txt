@@ -78,3 +78,7 @@ Search Processing Language (SPL) - Splunk's query language
 A GET request retrieves data from a server while a POSt request submits data to a server.
 
 Algorithm - a set of rules that solve a problem
+
+Automation - is the use of technology to reduce human and manual effort to perform common and repetitive tasks.
+
+Parsing - is the process of converting data into a more readable format
