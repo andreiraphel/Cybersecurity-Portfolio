@@ -76,3 +76,5 @@ SIEM - Security Information and Event Management) - an application that collects
 Search Processing Language (SPL) - Splunk's query language
 
 A GET request retrieves data from a server while a POSt request submits data to a server.
+
+Algorithm - a set of rules that solve a problem
