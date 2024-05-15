@@ -113,3 +113,9 @@ The OSI model stands for open systems interconnection (OSI) model. It is a stand
 What are SIEM tools and what are they used for? 
 
 SIEM tools are security information and event management tools that are used by security professionals to identify and analyze security threats, risks, and vulnerabilities. 
+
+
+------------------------------------------------------------------------------
+SEC+ PREP
+
+
