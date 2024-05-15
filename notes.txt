@@ -84,3 +84,8 @@ Automation - is the use of technology to reduce human and manual effort to perfo
 Parsing - is the process of converting data into a more readable format
 
 A syntax error is an error that involves invalid usage of programming language.
+
+--------------------------------------------------------------------------------\
+SEC+ PREP
+
+
