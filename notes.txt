@@ -118,6 +118,13 @@ IT SUPPORT
 
 Abstraction - to take a relatively complex system and simplify it for our use
 
+4 main layers of a Computer
+
+- Hardware layer - physical components of a computer
+- OS - Allows hardware to communicate with the system
+- Software layer - is how we as humans interact with the computer
+- User - interacts with the computer
+
 ------------------------------------------------------------------------------
 SEC+ PREP
 
