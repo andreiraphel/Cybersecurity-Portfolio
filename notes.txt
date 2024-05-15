@@ -1,0 +1,115 @@
+National Institute of Standards and Technology Cybersecurity Framework is a voluntary framework consist of standards, guidelines, and best practices to manage cybersecurity risks.
+
+HIPPA - Health Insurance Portability and Accountability Act)
+PII - Personally Identifiable Information
+SPII - Sensitive personally identifiable information
+PHI - Protected Health Information
+GDPR - General Data Protection Regulation
+PCI DSS - Payment Card Industry Data Security Standard
+FIPS - Federal Information Processing Standardd
+
+sha256 - hashing
+LDAP - Lightweight Directory Access Protocol
+SAML - Security Assertion Markup Language
+IAM - Identity and Access Manaagement
+MAC - Mandatory Access Control
+DAC - Discretionary Access Control
+RBAC - Role-based Access Control
+
+Vulnerability - is a weakness that can be exploited by a threat
+Exposure - is a mistake that can be exploited by a threat
+CVE list (Common Vulnerabilities and Exposures list) - an openly accessible dictionary of known vulnerabilities and exposures
+
+CNA (CVE Numbering Authority) - an organization that volunteers to analyze and distribute information on eligible CVEs
+
+OWASP - Open WorldWide Application Security Project
+
+OSINT - Open-source intelligence 
+
+CISA - Cybersecurity and Infrastruture Security Agency
+
+Penetration test - is a simulated attack that helps identify vulnerabilities in systems, networks, websites, application, and processes.
+
+Threat actor - is any person or group who presents a security risk.
+
+hacker - is any person who uses computers to gain unauthorized access to computer systems, networks, or data.
+
+brute force attacks - are trial-and-error process of discovering private information.
+
+Social engineering - a manipulation technique that exploits human error to gain private information, access, or valuables.
+
+Phishing - the use of digital communications to trick people into revealing sensitive data or deploying malicious software
+
+Malware - are software that are designed to harm devices or networks
+
+PUA - potentially unwanted application
+
+XSS - Cross-site scripting
+
+PASTA - Process for Attack Simulation and Threat Analysis
+
+SSl/TLS (Secure Sockets Layer/Transport Layer Security - are cryptographic protocols designed to provide secure communication over a network.
+
+SIEM - Security Information and Event Management
+
+Documentation - is any form of recorded content that is used for a specific purpose
+
+Playbook - a manual that provides details about any operational action
+
+SOAR - Security orchestration, automation, and response
+
+Cyber deception
+Cyber deception involves techniques that deliberately deceive malicious actors with the goal of increasing detection and improving defensive strategies.
+
+Chain of custody - the process of documenting evidence possession and control during an incident lifecycle.
+
+log - a record of events that occur within the organization's systems
+
+FISMA - Federal Information Modernization Act
+GLBA - Gramm-Leach-Bliley Act
+SOX - Sarbanes-Oxley Act of 2002
+
+Telemetry - the collection and transmission of data for analysis
+
+SIEM - Security Information and Event Management) - an application that collects and analyzes log data to monitor critical activities in an organization
+
+Search Processing Language (SPL) - Splunk's query language
+
+A GET request retrieves data from a server while a POSt request submits data to a server.
+
+Algorithm - a set of rules that solve a problem
+
+Automation - is the use of technology to reduce human and manual effort to perform common and repetitive tasks.
+
+Parsing - is the process of converting data into a more readable format
+
+A syntax error is an error that involves invalid usage of programming language.
+
+Security mindset - The ability to evaluate risk and constantly seek out and identify the potential or actual breach of a system, application, or data.
+
+Protecting the data and assets of an organization is the primary goal of a security team.
+
+Incident escalation - The process of identifying a potential security incident, triaging it, and handing it off to a more experienced team member.
+
+Stakeholder - an individual or group that has an interest in the decision or activities of an organization.
+
+OWASP Top 10 - A globally recognized standard awareness document that lists the top 10 most critical security risks to web applications.
+
+Security websites and blogs:
+- CSO Online
+- Krebs on Security
+- Dark Reading
+
+POSSIBLE TECHNICAL INTERVIEW QUESTION
+
+What is the TCP/IP model? 
+
+The TCP/IP model is a framework used to visualize how data is organized and transmitted across a network. 
+
+What is the OSI model?
+
+The OSI model stands for open systems interconnection (OSI) model. It is a standardized concept that describes the seven layers computers use to communicate and send data over the network. 
+
+What are SIEM tools and what are they used for? 
+
+SIEM tools are security information and event management tools that are used by security professionals to identify and analyze security threats, risks, and vulnerabilities. 
