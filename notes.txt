@@ -116,6 +116,8 @@ SIEM tools are security information and event management tools that are used by 
 ------------------------------------------------------------------------------
 IT SUPPORT
 
+Abstraction - to take a relatively complex system and simplify it for our use
+
 ------------------------------------------------------------------------------
 SEC+ PREP
 
