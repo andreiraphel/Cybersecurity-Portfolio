@@ -61,20 +61,20 @@ Then select "yes" or "no" to answer the question: Does Botium Toys currently hav
 
 | Yes | No | Control |
 | --- | --- | ------- |
-|     |     | Least Privilege |
-|     |     | Disaster recovery plans |
-|     |     | Password policies |
-|     |     | Separation of duties |
-|     |     | Firewall |
-|     |     | Intrusion detection system (IDS) |
-|     |     | Backups |
-|     |     | Antivirus software |
-|     |     | Manual monitoring maintenance and intervention for legacy systems |
-|     |     | Encryption |
-|     |     | Password management system |
-|     |     | Locks (offices, storefront, warehouse) |
-|     |     | Closed-circuit television (CCTV) surveillance |
-|     |     | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
+|     |  /   | Least Privilege |
+|     |  /   | Disaster recovery plans |
+|     |  /   | Password policies |
+|     |  /   | Separation of duties |
+|  /   |     | Firewall |
+|     |  /   | Intrusion detection system (IDS) |
+|     |  /   | Backups |
+|  /   |     | Antivirus software |
+|     |  /   | Manual monitoring maintenance and intervention for legacy systems |
+|     |  /   | Encryption |
+|     |  /   | Password management system |
+|  /   |     | Locks (offices, storefront, warehouse) |
+|  /   |     | Closed-circuit television (CCTV) surveillance |
+|  /   |     | Fire detection/prevention (fire alarm, sprinkler system, etc.) |
 
 To complete the compliance checklist, refer to the information provided in the scope goals and risk assessment report. For more details about each compliance regulation, review the controls frameworks and compliance reading.
 
