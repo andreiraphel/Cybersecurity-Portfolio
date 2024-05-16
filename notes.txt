@@ -163,6 +163,11 @@ UTF-8: The most prevalent encoding standard used today
 
 Ports - connection points that we can connect devices to that extend the functionality of our computer.
 
+Programs - are instructions that tell a computer what to do.
+
+External data bus (EDB) - A row of wires that interconnect the parts of our computer.
+
+Clock speed- the maximum number of clock cycles that it can handle in a certain time period.
 ------------------------------------------------------------------------------
 SEC+ PREP
 
