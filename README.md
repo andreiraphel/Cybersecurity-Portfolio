@@ -81,6 +81,6 @@ This repository contains a collection of documents demonstrating my proficiency 
 **Description:** A detailed report outlining the scope, goals, and risk assessment for Botium Toys, providing insights into their security posture. [Read More](./Botium_Toys_Scope_Goals_and_Risk_Assessment_Report.md)
 
 ## 📬 Contact Information
-For more information or to discuss any of the projects and reports in this portfolio, please feel free to reach out to me via email at [your-email@example.com].
+For more information or to discuss any of the projects and reports in this portfolio, please feel free to reach out to me via email at [andreiraphel@gmail.com].
 
 Thank you for reviewing my Cybersecurity Portfolio!
