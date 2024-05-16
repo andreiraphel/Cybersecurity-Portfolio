@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Portfolio
 
-![Portfolio](https://via.placeholder.com/1200x400) <!-- Replace with a relevant image or banner -->
+![Portfolio]([https://via.placeholder.com/1200x400](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fidentity-first-security-cybersecurity-mesh-relevant-2023-alex-rocha&psig=AOvVaw2hUn9mNQOqjAU-wLNzeoTa&ust=1715944194817000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCo87KEkoYDFQAAAAAdAAAAABAE)) <!-- Replace with a relevant image or banner -->
 
 Welcome to my **Cybersecurity Portfolio**! This repository showcases various projects and reports that highlight my skills and experiences in the cybersecurity field. Explore the sections below to see the detailed work and analyses I've conducted.
 
