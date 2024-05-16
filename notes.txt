@@ -161,6 +161,7 @@ RGB model: RGB or red, green, and blue model is the basic model of representing 
 
 UTF-8: The most prevalent encoding standard used today
 
+Ports - connection points that we can connect devices to that extend the functionality of our computer.
 
 ------------------------------------------------------------------------------
 SEC+ PREP
