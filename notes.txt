@@ -171,4 +171,19 @@ Clock speed- the maximum number of clock cycles that it can handle in a certain 
 ------------------------------------------------------------------------------
 SEC+ PREP
 
+Control Categories
 
+*Technical Controls
+	- Controls implemented using systems
+	
+*Managerial Controls
+	- Administrative controls associated with security design and implentation
+
+*Operational controls
+	- Controls implemented by people instead of systems
+	
+*Physical Controls
+	- Limits physical access
+	
+	
+	
