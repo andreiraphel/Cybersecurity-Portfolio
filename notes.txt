@@ -193,8 +193,16 @@ The CIA Triad
 	- Prevent disclosure of information to unauthorized individuals or systems
 	
 *Integrity
-	- Messages can't be modified without detection
+	- Data is stored and transferred as intended
 	
 *Availability
 	- Systems and networks must be up and running
+	- Information is accessible to authorized users
 	
+Non-repudiation - a user cannot deny (repudiate) having performed a transaction.
+
+Proof of integrity - verify data does not change
+	- In cryptography, by using a hash - if anything changes in the data, the hash changes
+
+Proof of origin - Prove the source of the messages
+
