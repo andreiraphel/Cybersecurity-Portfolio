@@ -186,4 +186,15 @@ Control Categories
 	- Limits physical access
 	
 	
+The CIA Triad
+	- Sometimes referenced as the AIC Triad
+	
+*Confidentiality
+	- Prevent disclosure of information to unauthorized individuals or systems
+	
+*Integrity
+	- Messages can't be modified without detection
+	
+*Availability
+	- Systems and networks must be up and running
 	
