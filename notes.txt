@@ -168,7 +168,10 @@ Programs - are instructions that tell a computer what to do.
 External data bus (EDB) - A row of wires that interconnect the parts of our computer.
 
 Clock speed- the maximum number of clock cycles that it can handle in a certain time period.
+
 ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
 SEC+ PREP
 
 Control Categories
@@ -184,7 +187,8 @@ Control Categories
 	
 *Physical Controls
 	- Limits physical access
-	
+
+-----------------------------------------------------------------------------------------	
 	
 The CIA Triad
 	- Sometimes referenced as the AIC Triad
@@ -206,3 +210,6 @@ Proof of integrity - verify data does not change
 
 Proof of origin - Prove the source of the messages
 
+-----------------------------------------------------------------------------------------------
+
+AAA Framework (Authentication, Authorization, and Accounting)
